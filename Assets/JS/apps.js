@@ -188,6 +188,8 @@ function fetchSearch(myName) {
     .catch((error) => {
         console.error(error.message);
     });
+    
+    
 }
 
 
